@@ -1,0 +1,15 @@
+{
+  "title": "HOMURA pilot RCT: pre-registered SHA-256 hashes of the allocation program and random seed",
+  "upload_type": "dataset",
+  "description": "<p>Time-stamped SHA-256 hashes of the allocation program and the random seed for the HOMURA pilot randomized controlled trial (Human-overseen large language model assistance for systematic review screening and data extraction, Nagoya University), recorded before recruitment opens. The program and the seed themselves are kept private so that allocation cannot be predicted, and will be released with the analysis code when the results are published.</p>",
+  "creators": [
+    {
+      "name": "Kataoka, Yuki",
+      "affiliation": "Nagoya University"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["randomized controlled trial", "allocation concealment", "pre-registration", "systematic review", "large language model"],
+  "notes": "Funded by the Japan Agency for Medical Research and Development (AMED), grant number JP26rea522132."
+}
